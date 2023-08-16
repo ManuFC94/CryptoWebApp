@@ -13,6 +13,7 @@
 - 🔒 Cifrado y descifrado de mensajes con el Cifrado César.
 - 🖥️ Interfaz de usuario intuitiva y fácil de usar.
 - 🔄 Responsive design.
+- ⚠️ Sweet alerts.
 
 ---
 
