@@ -25,7 +25,7 @@
 
 ---
 
-## 🌐 Demostración en Vivo
+## 🌐 Demo
 
 [![Landing](img/landing.png)](https://tigscript.github.io/CryptoWebApp/)
 
