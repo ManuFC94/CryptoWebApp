@@ -6,7 +6,6 @@
 .container {
     position: relative;
     width: 100vw;
-    /* VIEW WEIGHT y VIEW HEIGHT para abarcar el 100% en alto y ancho de lo que se ve de la pantalla*/
     height: 100vh;
     background: #f3f5fc;
 }
