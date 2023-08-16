@@ -35,7 +35,7 @@ function encriptar() {
         cubo.src = "img/lab.png";
         tituloMensaje.textContent = "Ningún mensaje fue encontrado";
         parrafo.textContent = "Ingrese el texto que desee encriptar";
-        alert("Escribe el texto");
+        swal("Ooops!","Debes ingresar algún texto","warning");
     }
 }
 
@@ -76,6 +76,6 @@ function desencriptar(){
         cubo.src = "img/lab.png";
         tituloMensaje.textContent = "Ningún mensaje fue encontrado";
         parrafo.textContent = "Ingrese el texto que desee encriptar";
-        alert("Escribe el texto");
+        swal("Ooops!","Debes ingresar algún texto","warning");
     }
 }
