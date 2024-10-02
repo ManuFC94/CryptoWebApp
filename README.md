@@ -11,6 +11,6 @@ Cifrado y descifrado César con HTML, CSS, JavaScript! 🕵️‍♂️
 
 ## 🌐 Demo
 
-[![Landing](img/landing.png)](https://manufc94t.github.io/CryptoWebApp/)
+[![Landing](img/landing.png)](https://manufc94.github.io/CryptoWebApp/)
 
 </div>
